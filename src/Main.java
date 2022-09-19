@@ -11,7 +11,7 @@ public class Main
         fallCost = 200;
         winterCost = 170;
         springCost = 110;
-        summerCost = 80;
+        summerCost = 100;
         yearlyCost = fallCost + winterCost + springCost + summerCost;
         System.out.println("The yearly cost of home maintenance is " + yearlyCost);
 
